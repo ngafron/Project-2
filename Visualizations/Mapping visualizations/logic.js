@@ -13,8 +13,8 @@ var map = L.map("map", {
   zoom: 11
 });
 
-// Link, serves as path to geojson file
-var link = "custom.geo(1).json"
+// Path to geojson file
+var link = "Visualizations/Mapping visualizations/custom.geo(1).json"
 
 // Adding tile layer
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
@@ -23,8 +23,6 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   id: "mapbox.streets",
   accessToken: API_KEY
 }).addTo(map);
-
-
 
 // Grabbing our GeoJSON data..
 d3.json(link, function(data) {
