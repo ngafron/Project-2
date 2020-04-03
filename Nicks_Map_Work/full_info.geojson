@@ -1,0 +1,1760 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.847818000000004,23.424076 ]
+    },
+    "properties": {
+    "country":"AE",
+    "name":"United Arab Emirates",
+    "happiness_score":6.901,
+    "beer_percapita":16,
+    "spirit_percapita":135,
+    "wine_percapita":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.168331,41.153332 ]
+    },
+    "properties": {
+    "country":"AL",
+    "name":"Albania",
+    "happiness_score":4.959,
+    "beer_percapita":89,
+    "spirit_percapita":132,
+    "wine_percapita":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.038189,40.069099 ]
+    },
+    "properties": {
+    "country":"AM",
+    "name":"Armenia",
+    "happiness_score":4.35,
+    "beer_percapita":21,
+    "spirit_percapita":179,
+    "wine_percapita":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.873887,-11.202691999999999 ]
+    },
+    "properties": {
+    "country":"AO",
+    "name":"Angola",
+    "happiness_score":4.033,
+    "beer_percapita":217,
+    "spirit_percapita":57,
+    "wine_percapita":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616671999999994,-38.416097 ]
+    },
+    "properties": {
+    "country":"AR",
+    "name":"Argentina",
+    "happiness_score":6.574,
+    "beer_percapita":193,
+    "spirit_percapita":25,
+    "wine_percapita":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.550072,47.516231 ]
+    },
+    "properties": {
+    "country":"AT",
+    "name":"Austria",
+    "happiness_score":7.2,
+    "beer_percapita":279,
+    "spirit_percapita":75,
+    "wine_percapita":191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.775136,-25.274398 ]
+    },
+    "properties": {
+    "country":"AU",
+    "name":"Australia",
+    "happiness_score":7.284,
+    "beer_percapita":261,
+    "spirit_percapita":72,
+    "wine_percapita":212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.576927000000005,40.143105 ]
+    },
+    "properties": {
+    "country":"AZ",
+    "name":"Azerbaijan",
+    "happiness_score":5.2120000000000015,
+    "beer_percapita":21,
+    "spirit_percapita":46,
+    "wine_percapita":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.679076000000002,43.915886 ]
+    },
+    "properties": {
+    "country":"BA",
+    "name":"Bosnia and Herzegovina",
+    "happiness_score":4.949,
+    "beer_percapita":76,
+    "spirit_percapita":173,
+    "wine_percapita":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.469936,50.503887 ]
+    },
+    "properties": {
+    "country":"BE",
+    "name":"Belgium",
+    "happiness_score":6.937,
+    "beer_percapita":295,
+    "spirit_percapita":84,
+    "wine_percapita":212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.561593,12.238333 ]
+    },
+    "properties": {
+    "country":"BF",
+    "name":"Burkina Faso",
+    "happiness_score":3.587,
+    "beer_percapita":25,
+    "spirit_percapita":7,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.48583,42.733883 ]
+    },
+    "properties": {
+    "country":"BG",
+    "name":"Bulgaria",
+    "happiness_score":4.218,
+    "beer_percapita":231,
+    "spirit_percapita":252,
+    "wine_percapita":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.637772,25.930414000000003 ]
+    },
+    "properties": {
+    "country":"BH",
+    "name":"Bahrain",
+    "happiness_score":5.96,
+    "beer_percapita":42,
+    "spirit_percapita":63,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.315834,9.30769 ]
+    },
+    "properties": {
+    "country":"BJ",
+    "name":"Benin",
+    "happiness_score":3.34,
+    "beer_percapita":34,
+    "spirit_percapita":4,
+    "wine_percapita":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "country":"BO",
+    "name":"Bolivia",
+    "happiness_score":5.89,
+    "beer_percapita":167,
+    "spirit_percapita":41,
+    "wine_percapita":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "country":"BR",
+    "name":"Brazil",
+    "happiness_score":6.983,
+    "beer_percapita":245,
+    "spirit_percapita":145,
+    "wine_percapita":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.684866,-22.328474 ]
+    },
+    "properties": {
+    "country":"BW",
+    "name":"Botswana",
+    "happiness_score":4.332,
+    "beer_percapita":173,
+    "spirit_percapita":35,
+    "wine_percapita":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.953389,53.709807 ]
+    },
+    "properties": {
+    "country":"BY",
+    "name":"Belarus",
+    "happiness_score":5.813,
+    "beer_percapita":142,
+    "spirit_percapita":373,
+    "wine_percapita":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "country":"BZ",
+    "name":"Belize",
+    "happiness_score":5.956,
+    "beer_percapita":263,
+    "spirit_percapita":114,
+    "wine_percapita":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.34677099999999,56.130366 ]
+    },
+    "properties": {
+    "country":"CA",
+    "name":"Canada",
+    "happiness_score":7.427,
+    "beer_percapita":240,
+    "spirit_percapita":122,
+    "wine_percapita":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.227511999999999,46.818188 ]
+    },
+    "properties": {
+    "country":"CH",
+    "name":"Switzerland",
+    "happiness_score":7.5870000000000015,
+    "beer_percapita":185,
+    "spirit_percapita":100,
+    "wine_percapita":280
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675146999999996 ]
+    },
+    "properties": {
+    "country":"CL",
+    "name":"Chile",
+    "happiness_score":6.67,
+    "beer_percapita":130,
+    "spirit_percapita":124,
+    "wine_percapita":172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.354722,7.369722 ]
+    },
+    "properties": {
+    "country":"CM",
+    "name":"Cameroon",
+    "happiness_score":4.252,
+    "beer_percapita":147,
+    "spirit_percapita":1,
+    "wine_percapita":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.195397,35.86166 ]
+    },
+    "properties": {
+    "country":"CN",
+    "name":"China",
+    "happiness_score":5.14,
+    "beer_percapita":79,
+    "spirit_percapita":192,
+    "wine_percapita":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "country":"CO",
+    "name":"Colombia",
+    "happiness_score":6.477,
+    "beer_percapita":159,
+    "spirit_percapita":76,
+    "wine_percapita":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "country":"CR",
+    "name":"Costa Rica",
+    "happiness_score":7.226,
+    "beer_percapita":149,
+    "spirit_percapita":87,
+    "wine_percapita":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "country":"CY",
+    "name":"Cyprus",
+    "happiness_score":5.689,
+    "beer_percapita":192,
+    "spirit_percapita":154,
+    "wine_percapita":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.472961999999999,49.817492 ]
+    },
+    "properties": {
+    "country":"CZ",
+    "name":"Czech Republic",
+    "happiness_score":6.505,
+    "beer_percapita":361,
+    "spirit_percapita":170,
+    "wine_percapita":134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165690999999995 ]
+    },
+    "properties": {
+    "country":"DE",
+    "name":"Germany",
+    "happiness_score":6.75,
+    "beer_percapita":346,
+    "spirit_percapita":117,
+    "wine_percapita":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501785,56.26392 ]
+    },
+    "properties": {
+    "country":"DK",
+    "name":"Denmark",
+    "happiness_score":7.527,
+    "beer_percapita":224,
+    "spirit_percapita":81,
+    "wine_percapita":278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735692999999998 ]
+    },
+    "properties": {
+    "country":"DO",
+    "name":"Dominican Republic",
+    "happiness_score":4.885,
+    "beer_percapita":193,
+    "spirit_percapita":147,
+    "wine_percapita":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.8312389999999998 ]
+    },
+    "properties": {
+    "country":"EC",
+    "name":"Ecuador",
+    "happiness_score":5.975,
+    "beer_percapita":162,
+    "spirit_percapita":74,
+    "wine_percapita":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.013607,58.595271999999994 ]
+    },
+    "properties": {
+    "country":"EE",
+    "name":"Estonia",
+    "happiness_score":5.4289999999999985,
+    "beer_percapita":224,
+    "spirit_percapita":194,
+    "wine_percapita":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.802497999999996,26.820553000000004 ]
+    },
+    "properties": {
+    "country":"EG",
+    "name":"Egypt",
+    "happiness_score":4.194,
+    "beer_percapita":6,
+    "spirit_percapita":4,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7492199999999998,40.463667 ]
+    },
+    "properties": {
+    "country":"ES",
+    "name":"Spain",
+    "happiness_score":6.329,
+    "beer_percapita":284,
+    "spirit_percapita":157,
+    "wine_percapita":112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.748151,61.92411 ]
+    },
+    "properties": {
+    "country":"FI",
+    "name":"Finland",
+    "happiness_score":7.4060000000000015,
+    "beer_percapita":263,
+    "spirit_percapita":133,
+    "wine_percapita":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.213749,46.227638 ]
+    },
+    "properties": {
+    "country":"FR",
+    "name":"France",
+    "happiness_score":6.575,
+    "beer_percapita":127,
+    "spirit_percapita":151,
+    "wine_percapita":370
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "country":"GA",
+    "name":"Gabon",
+    "happiness_score":3.896,
+    "beer_percapita":347,
+    "spirit_percapita":98,
+    "wine_percapita":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.435973,55.378051 ]
+    },
+    "properties": {
+    "country":"GB",
+    "name":"United Kingdom",
+    "happiness_score":6.867000000000001,
+    "beer_percapita":219,
+    "spirit_percapita":126,
+    "wine_percapita":195
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.356891999999995,42.315407 ]
+    },
+    "properties": {
+    "country":"GE",
+    "name":"Georgia",
+    "happiness_score":4.297,
+    "beer_percapita":52,
+    "spirit_percapita":100,
+    "wine_percapita":149
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0231940000000002,7.946527000000001 ]
+    },
+    "properties": {
+    "country":"GH",
+    "name":"Ghana",
+    "happiness_score":4.633,
+    "beer_percapita":31,
+    "spirit_percapita":3,
+    "wine_percapita":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.824312,39.074208 ]
+    },
+    "properties": {
+    "country":"GR",
+    "name":"Greece",
+    "happiness_score":4.857,
+    "beer_percapita":133,
+    "spirit_percapita":112,
+    "wine_percapita":218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.23075899999999,15.783470999999999 ]
+    },
+    "properties": {
+    "country":"GT",
+    "name":"Guatemala",
+    "happiness_score":6.122999999999998,
+    "beer_percapita":53,
+    "spirit_percapita":69,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199998999999998 ]
+    },
+    "properties": {
+    "country":"HN",
+    "name":"Honduras",
+    "happiness_score":4.788,
+    "beer_percapita":69,
+    "spirit_percapita":98,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2,45.1 ]
+    },
+    "properties": {
+    "country":"HR",
+    "name":"Croatia",
+    "happiness_score":5.759,
+    "beer_percapita":230,
+    "spirit_percapita":87,
+    "wine_percapita":254
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.28521500000001,18.971187 ]
+    },
+    "properties": {
+    "country":"HT",
+    "name":"Haiti",
+    "happiness_score":4.518,
+    "beer_percapita":1,
+    "spirit_percapita":326,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.503304,47.162494 ]
+    },
+    "properties": {
+    "country":"HU",
+    "name":"Hungary",
+    "happiness_score":4.8,
+    "beer_percapita":234,
+    "spirit_percapita":215,
+    "wine_percapita":185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.243889999999999,53.41291 ]
+    },
+    "properties": {
+    "country":"IE",
+    "name":"Ireland",
+    "happiness_score":6.94,
+    "beer_percapita":313,
+    "spirit_percapita":118,
+    "wine_percapita":165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.851612,31.046051000000002 ]
+    },
+    "properties": {
+    "country":"IL",
+    "name":"Israel",
+    "happiness_score":7.278,
+    "beer_percapita":63,
+    "spirit_percapita":69,
+    "wine_percapita":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.96305100000001 ]
+    },
+    "properties": {
+    "country":"IS",
+    "name":"Iceland",
+    "happiness_score":7.561,
+    "beer_percapita":233,
+    "spirit_percapita":61,
+    "wine_percapita":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.56738,41.87194 ]
+    },
+    "properties": {
+    "country":"IT",
+    "name":"Italy",
+    "happiness_score":5.948,
+    "beer_percapita":85,
+    "spirit_percapita":42,
+    "wine_percapita":237
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "country":"JM",
+    "name":"Jamaica",
+    "happiness_score":5.709,
+    "beer_percapita":82,
+    "spirit_percapita":97,
+    "wine_percapita":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164000000002 ]
+    },
+    "properties": {
+    "country":"JO",
+    "name":"Jordan",
+    "happiness_score":5.192,
+    "beer_percapita":6,
+    "spirit_percapita":21,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.252924,36.204824 ]
+    },
+    "properties": {
+    "country":"JP",
+    "name":"Japan",
+    "happiness_score":5.987,
+    "beer_percapita":77,
+    "spirit_percapita":202,
+    "wine_percapita":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.906193,-0.023559 ]
+    },
+    "properties": {
+    "country":"KE",
+    "name":"Kenya",
+    "happiness_score":4.419,
+    "beer_percapita":58,
+    "spirit_percapita":22,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.766098,41.20438 ]
+    },
+    "properties": {
+    "country":"KG",
+    "name":"Kyrgyzstan",
+    "happiness_score":5.2860000000000005,
+    "beer_percapita":31,
+    "spirit_percapita":97,
+    "wine_percapita":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.990963,12.565679 ]
+    },
+    "properties": {
+    "country":"KH",
+    "name":"Cambodia",
+    "happiness_score":3.819,
+    "beer_percapita":57,
+    "spirit_percapita":65,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.872219,-11.875001 ]
+    },
+    "properties": {
+    "country":"KM",
+    "name":"Comoros",
+    "happiness_score":3.956,
+    "beer_percapita":1,
+    "spirit_percapita":3,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.766922,35.907757000000004 ]
+    },
+    "properties": {
+    "country":"KR",
+    "name":"South Korea",
+    "happiness_score":5.984,
+    "beer_percapita":140,
+    "spirit_percapita":16,
+    "wine_percapita":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "country":"KZ",
+    "name":"Kazakhstan",
+    "happiness_score":5.855,
+    "beer_percapita":124,
+    "spirit_percapita":246,
+    "wine_percapita":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.862285,33.854721000000005 ]
+    },
+    "properties": {
+    "country":"LB",
+    "name":"Lebanon",
+    "happiness_score":4.839,
+    "beer_percapita":20,
+    "spirit_percapita":55,
+    "wine_percapita":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.429499,6.4280550000000005 ]
+    },
+    "properties": {
+    "country":"LR",
+    "name":"Liberia",
+    "happiness_score":4.5710000000000015,
+    "beer_percapita":19,
+    "spirit_percapita":152,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "country":"LT",
+    "name":"Lithuania",
+    "happiness_score":5.832999999999998,
+    "beer_percapita":343,
+    "spirit_percapita":244,
+    "wine_percapita":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129583,49.815273 ]
+    },
+    "properties": {
+    "country":"LU",
+    "name":"Luxembourg",
+    "happiness_score":6.9460000000000015,
+    "beer_percapita":236,
+    "spirit_percapita":133,
+    "wine_percapita":271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.603189,56.879635 ]
+    },
+    "properties": {
+    "country":"LV",
+    "name":"Latvia",
+    "happiness_score":5.098,
+    "beer_percapita":281,
+    "spirit_percapita":216,
+    "wine_percapita":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.09262,31.791702 ]
+    },
+    "properties": {
+    "country":"MA",
+    "name":"Morocco",
+    "happiness_score":5.013,
+    "beer_percapita":12,
+    "spirit_percapita":6,
+    "wine_percapita":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.369884999999996,47.411631 ]
+    },
+    "properties": {
+    "country":"MD",
+    "name":"Moldova",
+    "happiness_score":5.8889999999999985,
+    "beer_percapita":109,
+    "spirit_percapita":226,
+    "wine_percapita":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678000000006 ]
+    },
+    "properties": {
+    "country":"ME",
+    "name":"Montenegro",
+    "happiness_score":5.192,
+    "beer_percapita":31,
+    "spirit_percapita":114,
+    "wine_percapita":128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947000000002 ]
+    },
+    "properties": {
+    "country":"MG",
+    "name":"Madagascar",
+    "happiness_score":3.681,
+    "beer_percapita":26,
+    "spirit_percapita":15,
+    "wine_percapita":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9961660000000006,17.570692 ]
+    },
+    "properties": {
+    "country":"ML",
+    "name":"Mali",
+    "happiness_score":3.995,
+    "beer_percapita":5,
+    "spirit_percapita":1,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84665600000001,46.862496 ]
+    },
+    "properties": {
+    "country":"MN",
+    "name":"Mongolia",
+    "happiness_score":4.874,
+    "beer_percapita":77,
+    "spirit_percapita":189,
+    "wine_percapita":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "country":"MT",
+    "name":"Malta",
+    "happiness_score":6.3020000000000005,
+    "beer_percapita":149,
+    "spirit_percapita":100,
+    "wine_percapita":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.552152,-20.348404000000002 ]
+    },
+    "properties": {
+    "country":"MU",
+    "name":"Mauritius",
+    "happiness_score":5.477,
+    "beer_percapita":98,
+    "spirit_percapita":31,
+    "wine_percapita":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.301525,-13.254307999999998 ]
+    },
+    "properties": {
+    "country":"MW",
+    "name":"Malawi",
+    "happiness_score":4.292,
+    "beer_percapita":8,
+    "spirit_percapita":11,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "country":"MX",
+    "name":"Mexico",
+    "happiness_score":7.187,
+    "beer_percapita":238,
+    "spirit_percapita":68,
+    "wine_percapita":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.957639999999998 ]
+    },
+    "properties": {
+    "country":"",
+    "name":"Namibia",
+    "happiness_score":4.574,
+    "beer_percapita":376,
+    "spirit_percapita":3,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.081666,17.607789 ]
+    },
+    "properties": {
+    "country":"NE",
+    "name":"Niger",
+    "happiness_score":3.845,
+    "beer_percapita":3,
+    "spirit_percapita":2,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.675277000000001,9.081999 ]
+    },
+    "properties": {
+    "country":"NG",
+    "name":"Nigeria",
+    "happiness_score":5.268,
+    "beer_percapita":42,
+    "spirit_percapita":5,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "country":"NI",
+    "name":"Nicaragua",
+    "happiness_score":5.8279999999999985,
+    "beer_percapita":78,
+    "spirit_percapita":118,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "country":"NL",
+    "name":"Netherlands",
+    "happiness_score":7.377999999999999,
+    "beer_percapita":251,
+    "spirit_percapita":88,
+    "wine_percapita":190
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.468946,60.472024 ]
+    },
+    "properties": {
+    "country":"NO",
+    "name":"Norway",
+    "happiness_score":7.522,
+    "beer_percapita":169,
+    "spirit_percapita":71,
+    "wine_percapita":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.88597099999998,-40.900557 ]
+    },
+    "properties": {
+    "country":"NZ",
+    "name":"New Zealand",
+    "happiness_score":7.286,
+    "beer_percapita":203,
+    "spirit_percapita":79,
+    "wine_percapita":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "country":"PA",
+    "name":"Panama",
+    "happiness_score":6.7860000000000005,
+    "beer_percapita":285,
+    "spirit_percapita":104,
+    "wine_percapita":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "country":"PE",
+    "name":"Peru",
+    "happiness_score":5.824,
+    "beer_percapita":163,
+    "spirit_percapita":160,
+    "wine_percapita":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.77401699999999,12.879721 ]
+    },
+    "properties": {
+    "country":"PH",
+    "name":"Philippines",
+    "happiness_score":5.073,
+    "beer_percapita":71,
+    "spirit_percapita":186,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.145135999999997,51.919438 ]
+    },
+    "properties": {
+    "country":"PL",
+    "name":"Poland",
+    "happiness_score":5.791,
+    "beer_percapita":343,
+    "spirit_percapita":215,
+    "wine_percapita":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.224454,39.399871999999995 ]
+    },
+    "properties": {
+    "country":"PT",
+    "name":"Portugal",
+    "happiness_score":5.102,
+    "beer_percapita":194,
+    "spirit_percapita":67,
+    "wine_percapita":339
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.44383199999999,-23.442503 ]
+    },
+    "properties": {
+    "country":"PY",
+    "name":"Paraguay",
+    "happiness_score":5.877999999999999,
+    "beer_percapita":213,
+    "spirit_percapita":117,
+    "wine_percapita":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.183884,25.354826 ]
+    },
+    "properties": {
+    "country":"QA",
+    "name":"Qatar",
+    "happiness_score":6.6110000000000015,
+    "beer_percapita":1,
+    "spirit_percapita":42,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.96676,45.943160999999996 ]
+    },
+    "properties": {
+    "country":"RO",
+    "name":"Romania",
+    "happiness_score":5.124,
+    "beer_percapita":297,
+    "spirit_percapita":122,
+    "wine_percapita":167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.005859,44.016521000000004 ]
+    },
+    "properties": {
+    "country":"RS",
+    "name":"Serbia",
+    "happiness_score":5.122999999999998,
+    "beer_percapita":283,
+    "spirit_percapita":131,
+    "wine_percapita":127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.643501,60.128161 ]
+    },
+    "properties": {
+    "country":"SE",
+    "name":"Sweden",
+    "happiness_score":7.364,
+    "beer_percapita":152,
+    "spirit_percapita":60,
+    "wine_percapita":186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "country":"SG",
+    "name":"Singapore",
+    "happiness_score":6.797999999999999,
+    "beer_percapita":60,
+    "spirit_percapita":12,
+    "wine_percapita":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.995463,46.151241 ]
+    },
+    "properties": {
+    "country":"SI",
+    "name":"Slovenia",
+    "happiness_score":5.848,
+    "beer_percapita":270,
+    "spirit_percapita":51,
+    "wine_percapita":276
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.699023999999998,48.669026 ]
+    },
+    "properties": {
+    "country":"SK",
+    "name":"Slovakia",
+    "happiness_score":5.995,
+    "beer_percapita":196,
+    "spirit_percapita":293,
+    "wine_percapita":116
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.779889,8.460555000000001 ]
+    },
+    "properties": {
+    "country":"SL",
+    "name":"Sierra Leone",
+    "happiness_score":4.507,
+    "beer_percapita":25,
+    "spirit_percapita":3,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.452361999999999,14.497401000000002 ]
+    },
+    "properties": {
+    "country":"SN",
+    "name":"Senegal",
+    "happiness_score":3.904,
+    "beer_percapita":9,
+    "spirit_percapita":1,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.02778299999999,3.9193050000000005 ]
+    },
+    "properties": {
+    "country":"SR",
+    "name":"Suriname",
+    "happiness_score":6.269,
+    "beer_percapita":128,
+    "spirit_percapita":178,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "country":"SV",
+    "name":"El Salvador",
+    "happiness_score":6.13,
+    "beer_percapita":52,
+    "spirit_percapita":69,
+    "wine_percapita":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.996815000000005,34.802075 ]
+    },
+    "properties": {
+    "country":"SY",
+    "name":"Syria",
+    "happiness_score":3.006,
+    "beer_percapita":5,
+    "spirit_percapita":35,
+    "wine_percapita":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.732207,15.454166 ]
+    },
+    "properties": {
+    "country":"TD",
+    "name":"Chad",
+    "happiness_score":3.667,
+    "beer_percapita":15,
+    "spirit_percapita":1,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.824782,8.619543 ]
+    },
+    "properties": {
+    "country":"TG",
+    "name":"Togo",
+    "happiness_score":2.839,
+    "beer_percapita":36,
+    "spirit_percapita":2,
+    "wine_percapita":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.992541,15.870032 ]
+    },
+    "properties": {
+    "country":"TH",
+    "name":"Thailand",
+    "happiness_score":6.455,
+    "beer_percapita":99,
+    "spirit_percapita":258,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.556278000000006,38.969719 ]
+    },
+    "properties": {
+    "country":"TM",
+    "name":"Turkmenistan",
+    "happiness_score":5.547999999999999,
+    "beer_percapita":19,
+    "spirit_percapita":71,
+    "wine_percapita":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.537499,33.886917 ]
+    },
+    "properties": {
+    "country":"TN",
+    "name":"Tunisia",
+    "happiness_score":4.739,
+    "beer_percapita":51,
+    "spirit_percapita":3,
+    "wine_percapita":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.243322,38.963745 ]
+    },
+    "properties": {
+    "country":"TR",
+    "name":"Turkey",
+    "happiness_score":5.332000000000002,
+    "beer_percapita":51,
+    "spirit_percapita":22,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "country":"TT",
+    "name":"Trinidad and Tobago",
+    "happiness_score":6.167999999999998,
+    "beer_percapita":197,
+    "spirit_percapita":156,
+    "wine_percapita":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "country":"TZ",
+    "name":"Tanzania",
+    "happiness_score":3.781,
+    "beer_percapita":36,
+    "spirit_percapita":6,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "country":"UA",
+    "name":"Ukraine",
+    "happiness_score":4.681,
+    "beer_percapita":206,
+    "spirit_percapita":237,
+    "wine_percapita":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.712891,37.09024 ]
+    },
+    "properties": {
+    "country":"US",
+    "name":"United States",
+    "happiness_score":7.119,
+    "beer_percapita":249,
+    "spirit_percapita":158,
+    "wine_percapita":84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765834999999996,-32.522779 ]
+    },
+    "properties": {
+    "country":"UY",
+    "name":"Uruguay",
+    "happiness_score":6.485,
+    "beer_percapita":115,
+    "spirit_percapita":35,
+    "wine_percapita":220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "country":"UZ",
+    "name":"Uzbekistan",
+    "happiness_score":6.002999999999999,
+    "beer_percapita":25,
+    "spirit_percapita":101,
+    "wine_percapita":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "country":"VE",
+    "name":"Venezuela",
+    "happiness_score":6.81,
+    "beer_percapita":333,
+    "spirit_percapita":100,
+    "wine_percapita":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.277199,14.058323999999999 ]
+    },
+    "properties": {
+    "country":"VN",
+    "name":"Vietnam",
+    "happiness_score":5.36,
+    "beer_percapita":111,
+    "spirit_percapita":2,
+    "wine_percapita":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.937506,-30.559482 ]
+    },
+    "properties": {
+    "country":"ZA",
+    "name":"South Africa",
+    "happiness_score":4.642,
+    "beer_percapita":225,
+    "spirit_percapita":76,
+    "wine_percapita":81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.849332,-13.133897 ]
+    },
+    "properties": {
+    "country":"ZM",
+    "name":"Zambia",
+    "happiness_score":5.129,
+    "beer_percapita":32,
+    "spirit_percapita":19,
+    "wine_percapita":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "country":"ZW",
+    "name":"Zimbabwe",
+    "happiness_score":4.61,
+    "beer_percapita":64,
+    "spirit_percapita":18,
+    "wine_percapita":4
+    }
+  }
+]
+}
