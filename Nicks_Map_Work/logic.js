@@ -46,7 +46,7 @@ function createMap(bpc) {
     };
 
     // Create our map, giving it the streetmap and earthquakes layers to display on load
-    var myMap = L.map("map", {
+    var myMap = L.map("map-id", {
         center: [
             10, -32
         ],
