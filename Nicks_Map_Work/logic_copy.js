@@ -103,7 +103,7 @@ d3.json(response, function(data) {
         var beerMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(bpc),
             wineMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(wpc),
             spiritsMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(spc),
-            happyMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(hr),
+            happyMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(hr)
 
             // // Add the new marker to the appropriate layer
             // newMarker.addTo(layers[level]);
