@@ -11,7 +11,7 @@ from flask import Flask, jsonify
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("postgresql://eitanlupovitch:LUPOterp94@localhost:5432/Happiness")
+engine = create_engine("postgresql://postgres:password@localhost:5432/Happiness")
 
 # reflect an existing database into a new model
 Base = automap_base()
