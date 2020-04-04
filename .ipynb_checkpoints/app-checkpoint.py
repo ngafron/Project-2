@@ -11,7 +11,7 @@ from flask import Flask, jsonify
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("postgresql://eitanlupovitch:LUPOterp94@localhost:5432/Happiness")
+engine = create_engine("postgresql://{user}:{password}@localhost/{dbname}")
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -19,10 +19,7 @@ Base = automap_base()
 Base.prepare(engine, reflect=True)
 
 # Save reference to the table
-# beer = table name
-# Make reference for each table
-Happiness = Base.classes.happiness
-Alcohol = Base.classes.alcohol
+Beer = Base.classes.beer
 
 #################################################
 # Flask Setup
@@ -35,30 +32,40 @@ app = Flask(__name__)
 #################################################
 @app.route("/home-page")
 def main_viz():
+    # Create our session (link) from Python to the DB
     session = Session(engine)
-    return render_template('Home_Page.html')
+    # Query 
+    session.close()
+
+    return jsonify()
 
 @app.route("/happiness")
 def smiles():
+    # Create our session (link) from Python to the DB
     session = Session(engine)
-     
-    return render_template('index.html')
+    # Query 
+    session.close()
 
+    return jsonify()
 
 @app.route("/drinking")
 def beers():
     # Create our session (link) from Python to the DB
     session = Session(engine)
+    # Query 
+    session.close()
 
-    return render_template('Drinking.html')
+    return jsonify()
 
 
 @app.route("/life-expectancy")
 def lifetime():
     # Create our session (link) from Python to the DB
     session = Session(engine)
+    # Query 
+    session.close()
 
-    return render_template('Life_Expentency.html')
+    return jsonify()
 
 if __name__ == '__main__':
     app.run(debug=True)
