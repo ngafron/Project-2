@@ -2,10 +2,10 @@ var response = "full_info.geojson";
 
 // Create the tile layer that will be the background of our map
 var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
-  attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
-  maxZoom: 18,
-  id: "mapbox.light",
-  accessToken: API_KEY
+    attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
+    maxZoom: 18,
+    id: "mapbox.light",
+    accessToken: API_KEY
 });
 
 // Initialize all of the LayerGroups we'll be using
@@ -92,32 +92,39 @@ d3.json(response, function(data) {
     // Loop through the countries
     for (var i = 0; i < data.length; i++) {
         var country = data[i].properties.name
+        var bpc = data[i].properties.beer_percapita
+        var wpc = data[i].properties.wine_percapita
+        var spc = data[i].properties.spirit_percapita
+        var hr = data[i].properties.happiness_rating
+
         console.log(country)
         console.log((data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1]))
-        var beer_data = data[i].properties.beer_percapita;
-        // Create a new marker with the appropriate icon and coordinates
-        var newMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])], {
-            icon: icons[i]
-        });
+            // Create a new marker with the appropriate icon and coordinates
+        var beerMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(bpc),
+            wineMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(wpc),
+            spiritsMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(spc),
+            happyMarker = L.marker([(data[i].geometry.coordinates[0]), (data[i].geometry.coordinates[1])]).bindPopup(hr),
 
-    // // Add the new marker to the appropriate layer
-    // newMarker.addTo(layers[level]);
+            // // Add the new marker to the appropriate layer
+            // newMarker.addTo(layers[level]);
 
-    // // Bind a popup to the marker that will  display on click. This will be rendered as HTML
-    // newMarker.bindPopup(score.name + "<br> Beer Per Capita: " + score.beer_percapita);
-    // }
+            // // Bind a popup to the marker that will  display on click. This will be rendered as HTML
+            // newMarker.bindPopup(score.name + "<br> Beer Per Capita: " + score.beer_percapita);
+            // }
 
-    // // Call the updateLegend function, which will... update the legend!
-    // updateLegend(markers);
-    // })
+            // // Call the updateLegend function, which will... update the legend!
+            // updateLegend(markers);
+            // })
 
 
-// Update the legend's innerHTML with the last updated time and station count
-function updateLegend(markers) {
-    document.querySelector(".legend").innerHTML = [
-        "<p class='beer'>Beer: " + markers.Beer + "</p>",
-        "<p class='wine'>Wine: " + markers.Wine + "</p>",
-        "<p class='spirits'>Spirits: " + markers.Spirits + "</p>",
-        "<p class='happiness'>Happiness: " + markers.Happiness + "</p>",
-    ].join("");
-}
+            // Update the legend's innerHTML with the last updated time and station count
+            function updateLegend(markers) {
+                document.querySelector(".legend").innerHTML = [
+                    "<p class='beer'>Beer: " + markers.Beer + "</p>",
+                    "<p class='wine'>Wine: " + markers.Wine + "</p>",
+                    "<p class='spirits'>Spirits: " + markers.Spirits + "</p>",
+                    "<p class='happiness'>Happiness: " + markers.Happiness + "</p>",
+                ].join("");
+            }
+    }
+});
